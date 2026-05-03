@@ -1,3 +1,10 @@
+# Public Health Dashboard Prototype
+
+A demo of a unified Maharashtra public health portal concept. The prototype explores how multiple health applications and dashboards can be brought into one access layer for easier monitoring, navigation, and decision making.
+
+## Live Demo
+
+[View the live dashboard prototype] https://phddashboard.netlify.app/
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
